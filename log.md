@@ -2,9 +2,9 @@
 
 ### Day 0: June 28, 2024
 
-**Today's Progress**: Started to learn Python, through the freeCodeCamp youtube video I may do two of the challenges in a day, for this one just learn the syntax of Python and maybe for the other one, create a website and learn JS while I'm at it.
+**Today's Progress**: Started to learn Python through the freeCodeCamp youtube video.
 
-**Thoughts**: I have thought about diving straight into a project but I need to learn the syntax first. Timer starts whenever I write code in python, for next 100 day challenge it will consist of multiple projects I'll be working on, and maybe I'll do a couple a couple of websites projects.
+**Thoughts**: It took a while but I did it, loving this new language atm, super intuitive and not too complex.
 
 **Link(s) to work**: Internal PC file, will not keep track as of now.
 
