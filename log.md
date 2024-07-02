@@ -31,14 +31,14 @@
 
 ### Day 3: July 1, Monday
 
-**Today's Progress**:
+**Today's Progress**: Tired as hell, learned more python fcc 
 
-**Thoughts** 
+**Thoughts**: More of the usual I love the language no kizzy
 
-**Link(s) to work**
+**Link(s) to work**: Eventually I'll upload
 
 
-### Day 1: June 29, Saturday
+### Day 4: July 2, Tuesday
 
 **Today's Progress**:
 
