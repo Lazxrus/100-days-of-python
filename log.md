@@ -1,6 +1,6 @@
 # 100 Days Of Python - Log
 
-## Missing Hours: 1 hour
+## Missing Hours: 2 hours
 
 ### Day 0: June 28, 2024
 
@@ -40,8 +40,26 @@
 
 ### Day 4: July 2, Tuesday
 
+**Today's Progress**: Made it up to translator
+
+**Thoughts**: Not a lot of time as of late to do it for one hour, but I'll keep trying to make it
+
+**Link(s) to work**: No upload yet
+
+
+### Day 5: July 3, Wednesday
+
+**Today's Progress**: Most likely no progress today
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+
+### Day 6: July 4, Thursday
+
 **Today's Progress**:
 
-**Thoughts** 
+**Thoughts**: Make up all the missed time on this day(7, 3, 2024)
 
-**Link(s) to work**
+**Link(s) to work**: 
