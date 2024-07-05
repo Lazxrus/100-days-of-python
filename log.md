@@ -1,6 +1,6 @@
 # 100 Days Of Python - Log
 
-## Missing Hours: 2 hours
+## Missing Hours: 1 hours 34 minutes ##
 
 ### Day 0: June 28, 2024
 
@@ -49,17 +49,17 @@
 
 ### Day 5: July 3, Wednesday
 
-**Today's Progress**: Most likely no progress today
+**Today's Progress**: Comments and try/except
 
-**Thoughts**: 
+**Thoughts**: Not much progress just a couple of minutes of learning some syntax
 
-**Link(s) to work**: 
+**Link(s) to work**: No upload yet
 
 
 ### Day 6: July 4, Thursday
 
-**Today's Progress**:
+**Today's Progress**: Made it up to modules & pip
 
-**Thoughts**: Make up all the missed time on this day(7, 3, 2024)
+**Thoughts**: Very much enjoyable getting a little bit more complex as we go, but near the finish line!
 
-**Link(s) to work**: 
+**Link(s) to work**: No upload yet
