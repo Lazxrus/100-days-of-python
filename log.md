@@ -64,7 +64,7 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 6: July 5, Friday (MISSED)
+### Day 6: July 5, Friday (RECOVERED)
 
 **Today's Progress**: No progress
 
@@ -109,15 +109,15 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 6: July 10, Wednesday
+### Day 6: July 10, Wednesday (34 MINUTES MISSED?)
 
-**Today's Progress**: Finished FCC Beginner Python Course
+**Today's Progress**: Finished FCC Beginner Python Course, Began Intermediate FCC Course
 
-**Thoughts**: Finally finished learning the basic Python syntax, enjoyed it very much and now to the intermediate part.
+**Thoughts**: Finally finished learning the basic Python syntax, enjoyed it very much and now to the intermediate part. Started with the intermediate class and never typed so fast and so much in such a short span of time.
 
-**Link(s) to work**: No upload yet
+**Link(s) to work**: No upload
 
 
-## Hours Done: 4 hours 26 minutes ##
+## Hours Done: 5 hours 56 minutes ##
 
-## Missing Hours:  5 hours 34 minutes ##
+## Missing Hours:  5 hours 04 minutes ##
