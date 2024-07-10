@@ -1,6 +1,5 @@
 # 100 Days Of Python - Log
 
-## Missing Hours: 4 hours 34 minutes ##
 
 ### Day 0: June 28, 2024
 
@@ -11,7 +10,7 @@
 **Link(s) to work**: Internal PC file, will not keep track as of now.
 
 
-### Day 1: June 29, Saturday (MISSED)
+### Day 1: June 29, Saturday
 
 **Today's Progress**: Continued with the Python FCC tutorial, enjoying it quite a bit.
 
@@ -33,7 +32,7 @@
 
 **Today's Progress**: Tired as hell, learned more python fcc 
 
-**Thoughts**: More of the usual I love the language no kizzy
+**Thoughts**: More of the usual I love the language nothing new
 
 **Link(s) to work**: Eventually I'll upload
 
@@ -92,10 +91,33 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 6: July 8, Monday
+### Day 6: July 8, Monday (MISSED)
 
-**Today's Progress**: 
+**Today's Progress**: No progress
 
-**Thoughts**: 
+**Thoughts**: N/a
 
 **Link(s) to work**: No upload yet
+
+
+### Day 7: July 9, Tuesday (MISSED)
+
+**Today's Progress**: No progress
+
+**Thoughts**: N/a
+
+**Link(s) to work**: No upload yet
+
+
+### Day 6: July 10, Wednesday
+
+**Today's Progress**: Finished FCC Beginner Python Course
+
+**Thoughts**: Finally finished learning the basic Python syntax, enjoyed it very much and now to the intermediate part.
+
+**Link(s) to work**: No upload yet
+
+
+## Hours Done: 4 hours 26 minutes ##
+
+## Missing Hours:  5 hours 34 minutes ##
