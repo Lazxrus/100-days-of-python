@@ -118,6 +118,33 @@
 **Link(s) to work**: No upload
 
 
+### Day 6: July 11, Thursday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: No upload
+
+
+### Day 6: July 12, Friday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: No upload
+
+
+### Day 6: July 13, Saturday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: No upload
+
+
 ## Hours Done: 5 hours 56 minutes ##
 
 ## Missing Hours:  5 hours 04 minutes ##
