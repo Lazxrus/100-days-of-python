@@ -64,7 +64,7 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 6: July 5, Friday (RECOVERED)
+### Day 6: July 5, Friday
 
 **Today's Progress**: No progress
 
@@ -127,16 +127,43 @@
 **Link(s) to work**: No upload
 
 
-### Day 6: July 12, Friday
+### Day 6: July 12, Friday (MISSED)
 
-**Today's Progress**: 
+**Today's Progress**: N/a
 
-**Thoughts**: 
+**Thoughts**: N/a
 
 **Link(s) to work**: No upload
 
 
-### Day 6: July 13, Saturday
+### Day 6: July 13, Saturday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: No upload
+
+
+### Day 6: July 14, Sunday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: No upload
+
+
+### Day 6: July 15, Monday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: No upload
+
+
+### Day 6: July 16, Tuesday
 
 **Today's Progress**: 
 
@@ -147,4 +174,4 @@
 
 ## Hours Done: 5 hours 56 minutes ##
 
-## Missing Hours:  5 hours 04 minutes ##
+## Missing Hours:  10 hours 04 minutes ##
