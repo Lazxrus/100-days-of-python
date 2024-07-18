@@ -64,7 +64,16 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 6: July 5, Friday
+### Day 7: July 5, Friday
+
+**Today's Progress**: Finished FCC Beginner Python Course
+
+**Thoughts**: Finally finished learning the basic Python syntax, enjoyed it very much and now to the intermediate part.
+
+**Link(s) to work**: No upload yet
+
+
+### Day 8: July 6, Saturday (MISSED)
 
 **Today's Progress**: No progress
 
@@ -73,7 +82,7 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 6: July 6, Saturday (MISSED)
+### Day 9: July 7, Sunday (MISSED)
 
 **Today's Progress**: No progress
 
@@ -82,7 +91,7 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 6: July 7, Sunday (MISSED)
+### Day 10: July 8, Monday (MISSED)
 
 **Today's Progress**: No progress
 
@@ -91,7 +100,7 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 6: July 8, Monday (MISSED)
+### Day 11: July 9, Tuesday (MISSED)
 
 **Today's Progress**: No progress
 
@@ -100,25 +109,16 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 7: July 9, Tuesday (MISSED)
+### Day 12: July 10, Wednesday (34 MINUTES MISSED?)
 
-**Today's Progress**: No progress
+**Today's Progress**: Began Intermediate FCC Course
 
-**Thoughts**: N/a
-
-**Link(s) to work**: No upload yet
-
-
-### Day 6: July 10, Wednesday (34 MINUTES MISSED?)
-
-**Today's Progress**: Finished FCC Beginner Python Course, Began Intermediate FCC Course
-
-**Thoughts**: Finally finished learning the basic Python syntax, enjoyed it very much and now to the intermediate part. Started with the intermediate class and never typed so fast and so much in such a short span of time.
+**Thoughts**: Started with the intermediate class and never typed so fast and so much in such a short span of time.
 
 **Link(s) to work**: No upload
 
 
-### Day 6: July 11, Thursday (MISSED)
+### Day 13: July 11, Thursday (MISSED)
 
 **Today's Progress**: N/a
 
@@ -127,7 +127,7 @@
 **Link(s) to work**: No upload
 
 
-### Day 6: July 12, Friday (MISSED)
+### Day 14: July 12, Friday (MISSED)
 
 **Today's Progress**: N/a
 
@@ -136,7 +136,7 @@
 **Link(s) to work**: No upload
 
 
-### Day 6: July 13, Saturday (MISSED)
+### Day 15: July 13, Saturday (MISSED)
 
 **Today's Progress**: N/a
 
@@ -145,7 +145,7 @@
 **Link(s) to work**: No upload
 
 
-### Day 6: July 14, Sunday (MISSED)
+### Day 16: July 14, Sunday (MISSED)
 
 **Today's Progress**: N/a
 
@@ -154,7 +154,7 @@
 **Link(s) to work**: No upload
 
 
-### Day 6: July 15, Monday (MISSED)
+### Day 17: July 15, Monday (MISSED)
 
 **Today's Progress**: N/a
 
@@ -163,7 +163,25 @@
 **Link(s) to work**: No upload
 
 
-### Day 6: July 16, Tuesday
+### Day 18: July 16, Tuesday (MISSED)
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: No upload
+
+
+### Day 19: July 17, Wednesday (MISSED)
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: No upload
+
+
+### Day 20: July 18, Thursday
 
 **Today's Progress**: 
 
@@ -174,4 +192,4 @@
 
 ## Hours Done: 5 hours 56 minutes ##
 
-## Missing Hours:  10 hours 04 minutes ##
+## Missing Hours:  11 hours 04 minutes ##
