@@ -183,13 +183,13 @@
 
 ### Day 20: July 18, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: Reinforced concepts for tuples, dictionaries and learned about sets
 
-**Thoughts**: 
+**Thoughts**: Having a crisis ngl, but something is better than nothing
 
 **Link(s) to work**: No upload
 
 
-## Hours Done: 8 hours 36 minutes ##
+## Hours Done: 9 hours 0 minutes ##
 
-## Missing Hours:  11 hours 34 minutes ##
+## Missing Hours:  11 hours 0 minutes ##
