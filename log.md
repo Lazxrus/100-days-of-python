@@ -73,7 +73,7 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 8: July 6, Saturday (MISSED)
+### Day 8: July 6, Saturday
 
 **Today's Progress**: No progress
 
@@ -109,7 +109,7 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 12: July 10, Wednesday (34 MINUTES MISSED?)
+### Day 12: July 10, Wednesday (MISSED BUT ROUNDED)
 
 **Today's Progress**: Began Intermediate FCC Course
 
@@ -165,23 +165,23 @@
 
 ### Day 18: July 16, Tuesday (MISSED)
 
-**Today's Progress**: 
+**Today's Progress**: N/a
 
-**Thoughts**: 
+**Thoughts**: N/a
 
 **Link(s) to work**: No upload
 
 
 ### Day 19: July 17, Wednesday (MISSED)
 
-**Today's Progress**: 
+**Today's Progress**: N/a
 
-**Thoughts**: 
+**Thoughts**: N/a
 
 **Link(s) to work**: No upload
 
 
-### Day 20: July 18, Thursday
+### Day 20: July 18, Thursday (NOT MISSED BUT ROUNDED)
 
 **Today's Progress**: Reinforced concepts for tuples, dictionaries and learned about sets
 
@@ -190,6 +190,49 @@
 **Link(s) to work**: No upload
 
 
-## Hours Done: 9 hours 0 minutes ##
+### Day 21: July 19, Friday (MISSED)
+**Today's Progress**: N/a
 
-## Missing Hours:  11 hours 0 minutes ##
+**Thoughts**: N/a
+
+**Link(s) to work**: No upload
+
+
+### Day 22: July 20, Saturday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: No upload
+
+
+### Day 23: July 21, Sunday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: No upload
+
+
+### Day 24: July 23, Monday
+
+**Today's Progress**: Continued through the intermediate course FCC
+
+**Thoughts**: Very tiring and exhausting I don't know where I'll apply the language to, but gotta keep going.
+
+**Link(s) to work**: No upload
+
+
+### Day 25: July 24, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: No upload
+
+## Hours Done: 10 hours 0 minutes ##
+
+## Missing Hours:  14 hours 0 minutes ##
