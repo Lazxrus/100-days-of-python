@@ -227,12 +227,12 @@
 
 ### Day 25: July 24, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: Got up to logging
 
-**Thoughts**: 
+**Thoughts**: My brain is just not working right now, for the life of me I do not understand what that man is trying to explain
 
 **Link(s) to work**: No upload
 
-## Hours Done: 10 hours 0 minutes ##
+## Hours Done: 10 hours 30 minutes ##
 
-## Missing Hours:  14 hours 0 minutes ##
+## Missing Hours:  14 hours 30 minutes ##
