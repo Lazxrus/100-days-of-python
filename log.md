@@ -216,7 +216,7 @@
 **Link(s) to work**: No upload
 
 
-### Day 24: July 23, Monday
+### Day 24: July 22, Monday
 
 **Today's Progress**: Continued through the intermediate course FCC
 
@@ -225,7 +225,7 @@
 **Link(s) to work**: No upload
 
 
-### Day 25: July 24, Tuesday
+### Day 25: July 23, Tuesday
 
 **Today's Progress**: Got up to logging
 
@@ -233,6 +233,70 @@
 
 **Link(s) to work**: No upload
 
-## Hours Done: 10 hours 30 minutes ##
 
-## Missing Hours:  14 hours 30 minutes ##
+### Day 26: July 24, Wednesday
+
+**Today's Progress**: Finished JSON and random numbers
+
+**Thoughts**: Getting really confusing when it comes to data managing
+
+**Link(s) to work**: No upload
+
+
+### Day 27: July 25, Thursday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: No upload (MISSED)
+
+
+### Day 28: July 26, Friday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: No upload
+
+
+### Day 29: July 27, Saturday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: No upload
+
+
+### Day 30: July 28, Sunday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: No upload
+
+
+### Day 31: July 29, Monday 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: No upload
+
+
+### Day x: m d, dw
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: No upload
+
+
+## Hours Done: 11 hours 0 minutes ##
+
+## Missing Hours:  20 hours 0 minutes ##
