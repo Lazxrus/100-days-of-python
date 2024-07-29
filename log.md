@@ -73,7 +73,7 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 8: July 6, Saturday
+### Day 8: July 6, Saturday (RECOVERED)
 
 **Today's Progress**: No progress
 
@@ -109,7 +109,7 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 12: July 10, Wednesday (MISSED BUT ROUNDED)
+### Day 12: July 10, Wednesday
 
 **Today's Progress**: Began Intermediate FCC Course
 
@@ -181,7 +181,7 @@
 **Link(s) to work**: No upload
 
 
-### Day 20: July 18, Thursday (NOT MISSED BUT ROUNDED)
+### Day 20: July 18, Thursday
 
 **Today's Progress**: Reinforced concepts for tuples, dictionaries and learned about sets
 
