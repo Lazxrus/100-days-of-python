@@ -270,7 +270,7 @@
 **Link(s) to work**: No upload
 
 
-### Day 30: July 28, Sunday (MISSED)
+### Day 30: July 28, Sunday 
 
 **Today's Progress**: N/a
 
@@ -281,9 +281,18 @@
 
 ### Day 31: July 29, Monday 
 
-**Today's Progress**: 
+**Today's Progress**: Started a beginner python project
 
-**Thoughts**: 
+**Thoughts**: Really difficult, it just doesn't come to me when to apply certain thing and where to use them, used AI a lot but learning slowly. Defined functions for 2 hours and tried to figure out how to properly use functions and reinforcing concepts. Love IT, I was getting tired of the videos.
+
+**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 32: July 30, Tuesday
+
+**Today's Progress**:
+
+**Thoughts**:
 
 **Link(s) to work**: No upload
 
@@ -297,6 +306,6 @@
 **Link(s) to work**: No upload
 
 
-## Hours Done: 11 hours 0 minutes ##
+## Hours Done: 13 hours 0 minutes ##
 
-## Missing Hours:  20 hours 0 minutes ##
+## Missing Hours:  19 hours 0 minutes ##
