@@ -290,11 +290,20 @@
 
 ### Day 32: July 30, Tuesday
 
-**Today's Progress**:
+**Today's Progress**: N/a
 
-**Thoughts**:
+**Thoughts**: N/a
 
 **Link(s) to work**: No upload
+
+
+### Day 33: July 31, Wednesday
+
+**Today's Progress**: Finished the app, or at least that's what I think
+
+**Thoughts**: Completed all functions I declared, very difficult to do but getting 1% better everyday, keep going.
+
+**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
 
 
 ### Day x: m d, dw
@@ -303,7 +312,7 @@
 
 **Thoughts**:
 
-**Link(s) to work**: No upload
+**Link(s) to work**: <link>
 
 
 ## Hours Done: 13 hours 0 minutes ##
