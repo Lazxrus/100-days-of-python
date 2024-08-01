@@ -73,9 +73,9 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 8: July 6, Saturday (RECOVERED)
+### Day 8: July 6, Saturday
 
-**Today's Progress**: No progress
+**Today's Progress**: Recovered.
 
 **Thoughts**: N/a
 
@@ -249,7 +249,7 @@
 
 **Thoughts**: N/a
 
-**Link(s) to work**: No upload (MISSED)
+**Link(s) to work**: No upload
 
 
 ### Day 28: July 26, Friday (MISSED)
@@ -272,7 +272,7 @@
 
 ### Day 30: July 28, Sunday 
 
-**Today's Progress**: N/a
+**Today's Progress**: Recovered
 
 **Thoughts**: N/a
 
@@ -288,7 +288,7 @@
 **Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
 
 
-### Day 32: July 30, Tuesday
+### Day 32: July 30, Tuesday (MISSED)
 
 **Today's Progress**: N/a
 
@@ -315,6 +315,6 @@
 **Link(s) to work**: <link>
 
 
-## Hours Done: 13 hours 0 minutes ##
+## Hours Done: 17 hours 0 minutes ##
 
-## Missing Hours:  19 hours 0 minutes ##
+## Missing Hours:  16 hours 0 minutes ##
