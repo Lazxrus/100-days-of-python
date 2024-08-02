@@ -306,15 +306,24 @@
 **Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
 
 
-### Day x: m d, dw
+### Day 34: August 1, Thursday (MISSED)
 
-**Today's Progress**:
+**Today's Progress**: N/a
 
-**Thoughts**:
+**Thoughts**: N/a
 
 **Link(s) to work**: <link>
 
 
-## Hours Done: 17 hours 0 minutes ##
+### Day 35: August 2, Friday
 
-## Missing Hours:  16 hours 0 minutes ##
+**Today's Progress**: Finished the initial menu section with all the function declarations
+
+**Thoughts**: Tried to run and debug the code to find like 8 different errors, troubleshooting will occupy most od the log probably
+
+**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+
+
+## Hours Done: 18 hours 0 minutes ##
+
+## Missing Hours:  17 hours 0 minutes ##
