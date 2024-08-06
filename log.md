@@ -344,9 +344,18 @@
 
 ### Day 38: August 5, Monday
 
-**Today's Progress**: 
+**Today's Progress**: FINISHED THE PROJECT!!!
 
-**Thoughts**: 
+**Thoughts**: Super happy and proud, but without extensive and exhaustive guidance I wouldn't have been able to finish it, kinda discouraging but 1st project ever done!!
+
+**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 39: August 6, Tuesday
+
+**Today's Progress**:
+
+**Thoughts**:
 
 **Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
 
