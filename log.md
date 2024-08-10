@@ -351,7 +351,16 @@
 **Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
 
 
-### Day 39: August 6, Tuesday
+### Day 39: August 6, Tuesday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 40: August 7, Wednesday (MISSED)
 
 **Today's Progress**:
 
@@ -360,6 +369,33 @@
 **Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
 
 
-## Hours Done: 18 hours 0 minutes ##
+### Day 41: August 8, Tuesday (MISSED)
 
-## Missing Hours:  19 hours 0 minutes ##
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 42: August 9, Friday
+
+**Today's Progress**: Started new text based adventure project
+
+**Thoughts**: Challenging as always to start, but learned through the previous project thinking about how to proceed and what to write under the functions
+
+**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 43: August 10, Saturday
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+
+
+## Hours Done: 20 hours 0 minutes ##
+
+## Missing Hours:  23 hours 0 minutes ##
