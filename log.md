@@ -387,7 +387,34 @@
 **Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
 
 
-### Day 43: August 10, Saturday
+### Day 43: August 10, Saturday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 44: August 11, Sunday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 45: August 12, Monday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 46: August 13, Tuesday
 
 **Today's Progress**: 
 
@@ -398,4 +425,4 @@
 
 ## Hours Done: 20 hours 0 minutes ##
 
-## Missing Hours:  23 hours 0 minutes ##
+## Missing Hours:  26 hours 0 minutes ##
