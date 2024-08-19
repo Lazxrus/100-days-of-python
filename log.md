@@ -371,7 +371,7 @@
 
 ### Day 41: August 8, Tuesday (MISSED)
 
-**Today's Progress**:
+**Today's Progress**: 
 
 **Thoughts**:
 
@@ -461,9 +461,9 @@
 
 ### Day 51: August 18, Tuesday 
 
-**Today's Progress**: 
+**Today's Progress**: Defined the new_game function at least partially
 
-**Thoughts**:
+**Thoughts**: As always using AI, very difficult project but I want to take my time with it and really make a decent game.
 
 **Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
 
@@ -477,6 +477,6 @@
 **Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
 
 
-## Hours Done: 20 hours 0 minutes ##
+## Hours Done: 21 hours 0 minutes ##
 
 ## Missing Hours:  31 hours 0 minutes ##
