@@ -450,7 +450,7 @@
 **Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
 
 
-### Day 50: August 17, Tuesday (MISSED)
+### Day 50: August 17, Saturday (MISSED)
 
 **Today's Progress**: N/a
 
@@ -459,7 +459,7 @@
 **Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
 
 
-### Day 51: August 18, Tuesday 
+### Day 51: August 18, Sunday 
 
 **Today's Progress**: Defined the new_game function at least partially
 
@@ -468,15 +468,32 @@
 **Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
 
 
-### Day 52: August 19, Tuesday
+### Day 52: August 19, Monday (MISSED)
 
-**Today's Progress**: 
+**Today's Progress**: N/a
 
-**Thoughts**:
+**Thoughts**: N/a
 
 **Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
 
 
-## Hours Done: 21 hours 0 minutes ##
+### Day 53: August 20, Tuesday
 
-## Missing Hours:  31 hours 0 minutes ##
+**Today's Progress**: Didn't do much
+
+**Thoughts**: Started thinking more retroactively and tried to figure where the functions could be improved and more properly designed
+
+**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 54: August 21, Wednesday
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+
+## Hours Done: 22 hours 0 minutes ##
+
+## Missing Hours:  32 hours 0 minutes ##
