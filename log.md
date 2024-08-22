@@ -384,7 +384,7 @@
 
 **Thoughts**: Challenging as always to start, but learned through the previous project thinking about how to proceed and what to write under the functions
 
-**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
 ### Day 43: August 10, Saturday (MISSED)
@@ -393,7 +393,7 @@
 
 **Thoughts**: N/a
 
-**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
 ### Day 44: August 11, Sunday (MISSED)
@@ -402,7 +402,7 @@
 
 **Thoughts**: N/a
 
-**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
 ### Day 45: August 12, Monday (MISSED)
@@ -411,7 +411,7 @@
 
 **Thoughts**: N/a
 
-**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
 ### Day 46: August 13, Tuesday (MISSED)
@@ -420,7 +420,7 @@
 
 **Thoughts**: N/a
 
-**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
 ### Day 47: August 14, Wednesday (MISSED)
@@ -429,7 +429,7 @@
 
 **Thoughts**: N/a
 
-**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
 ### Day 48: August 15, Thursday (MISSED)
@@ -438,7 +438,7 @@
 
 **Thoughts**: N/a
 
-**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
 ### Day 49: August 16, Friday (MISSED)
@@ -447,7 +447,7 @@
 
 **Thoughts**: N/a
 
-**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
 ### Day 50: August 17, Saturday (MISSED)
@@ -456,7 +456,7 @@
 
 **Thoughts**: N/a
 
-**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
 ### Day 51: August 18, Sunday 
@@ -465,7 +465,7 @@
 
 **Thoughts**: As always using AI, very difficult project but I want to take my time with it and really make a decent game.
 
-**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
 ### Day 52: August 19, Monday (MISSED)
@@ -474,7 +474,7 @@
 
 **Thoughts**: N/a
 
-**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
 ### Day 53: August 20, Tuesday
@@ -483,16 +483,25 @@
 
 **Thoughts**: Started thinking more retroactively and tried to figure where the functions could be improved and more properly designed
 
-**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
-### Day 54: August 21, Wednesday
+### Day 54: August 21, Wednesday (MISSED)
 
 **Today's Progress**: N/a
 
 **Thoughts**: N/a
 
-**Link(s) to work**: [To-do App](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 55: August 22, Thursday
+
+**Today's Progress**: Created test.py and also refactored some code, logic improvements, etc.
+
+**Thoughts**: Crunk, AI carrying ngl
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 ## Hours Done: 22 hours 0 minutes ##
 
