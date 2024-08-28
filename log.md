@@ -503,6 +503,62 @@
 
 **Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
-## Hours Done: 22 hours 0 minutes ##
 
-## Missing Hours:  32 hours 0 minutes ##
+### Day 56: August 23, Friday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 57: August 24, Saturday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 58: August 25, Sunday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 59: August 26, Monday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+
+### Day 60: August 27, Tuesday
+
+**Today's Progress**: Defined options_menu among others
+
+**Thoughts**: Came back, man it's hard going over the basics again
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 61: August 28, Wednesday
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+## Hours Done: 23 hours 0 minutes ##
+
+## Missing Hours:  37 hours 0 minutes ##
