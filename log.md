@@ -550,7 +550,7 @@
 **Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
-### Day 61: August 28, Wednesday
+### Day 61: August 28, Wednesday (MISSED)
 
 **Today's Progress**: N/a
 
@@ -559,6 +559,231 @@
 **Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
+### Day 62: August 29, Thursday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 63: August 30, Friday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 64: September 1, Sunday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 65: September 2, Monday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 66: September 3, Tuesday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 67: September 4, Wednesday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 68: September 5, Thursday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 69: September 6, Friday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 70: September 7, Saturday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 71: September 8, Sunday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 72: September 9, Monday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 73: September 10, Tuesday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 74: September 11, Wednesday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 75: September 12, Thursday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 76: September 13, Friday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 77: September 14, Saturday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 78: September 15, Sunday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 79: September 16, Monday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 80: September 17, Tuesday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 81: September 18, Wednesday (MISSED)
+
+**Today's Progress**: N/a
+
+**Thoughts**: N/a
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 82: September 19, Thursday 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 83: September 20, Friday 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 84: September 21, Saturday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 85: September 22, Sunday 
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
+### Day 86: September 23, Monday 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+
+
 ## Hours Done: 23 hours 0 minutes ##
 
-## Missing Hours:  37 hours 0 minutes ##
+## Missing Hours:  58 hours 0 minutes ##
