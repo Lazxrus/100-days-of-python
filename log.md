@@ -82,27 +82,27 @@
 **Link(s) to work**: No upload yet
 
 
-### Day 9: July 7, Sunday (MISSED)
+### Day 9: July 7, Sunday
 
-**Today's Progress**: No progress
-
-**Thoughts**: N/a
-
-**Link(s) to work**: No upload yet
-
-
-### Day 10: July 8, Monday (MISSED)
-
-**Today's Progress**: No progress
+**Today's Progress**: Recovered.
 
 **Thoughts**: N/a
 
 **Link(s) to work**: No upload yet
 
 
-### Day 11: July 9, Tuesday (MISSED)
+### Day 10: July 8, Monday
 
-**Today's Progress**: No progress
+**Today's Progress**: Recovered.
+
+**Thoughts**: N/a
+
+**Link(s) to work**: No upload yet
+
+
+### Day 11: July 9, Tuesday
+
+**Today's Progress**: Recovered.
 
 **Thoughts**: N/a
 
@@ -739,40 +739,40 @@
 **Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
-### Day 82: September 19, Thursday 
+### Day 82: September 19, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: Went back to basics
 
-**Thoughts**: 
+**Thoughts**: Re-learning some super basic concepts and building up again, from functions to numbers
 
-**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Exercism] (https://exercism.org/journey)
 
 
-### Day 83: September 20, Friday 
+### Day 83: September 20, Friday (MISSED)
 
-**Today's Progress**: 
+**Today's Progress**: N/a
 
-**Thoughts**: 
+**Thoughts**: N/a
 
 **Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
 ### Day 84: September 21, Saturday
 
-**Today's Progress**: 
+**Today's Progress**: Back to Basics
 
-**Thoughts**: 
+**Thoughts**: Read a bunch about python, but also did some c++ on the side
 
-**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Exercism] (https://exercism.org/journey)
 
 
-### Day 85: September 22, Sunday 
+### Day 85: September 22, Sunday
 
-**Today's Progress**:
+**Today's Progress**: Back to Basics
 
-**Thoughts**: 
+**Thoughts**: Struggled with a currency exchange calculator and to this point I still don't understand it quite well.
 
-**Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
+**Link(s) to work**: [Exercism] (https://exercism.org/journey)
 
 
 ### Day 86: September 23, Monday 
@@ -784,6 +784,6 @@
 **Link(s) to work**: [Adventure Game](https://github.com/Lazxrus/Python-Projects)
 
 
-## Hours Done: 23 hours 0 minutes ##
+## Hours Done: 29 hours 0 minutes ##
 
-## Missing Hours:  58 hours 0 minutes ##
+## Missing Hours:  56 hours 0 minutes ##
